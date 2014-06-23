@@ -1,0 +1,19 @@
+/*
+CSS for Roosevelt Institute at UGA page
+Created by: Heather Huynh
+*/
+
+/* Import */
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans|Roboto+Slab:700);
+
+/* Text Styles */
+h1 {
+	color: #fe5a11;
+	font-family: 'Roboto Slab', serif;
+}
+
+h3 {
+	color: #000000;
+	font-family: 'Droid Sans', sans-serif;
+	font-weight: lighter;
+}
