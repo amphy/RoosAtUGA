@@ -24,6 +24,17 @@ h3 {
 	font-weight: lighter;
 }
 
+h4 {
+	color: #ffffff;
+	font-family: 'Roboto Slab', serif;
+	font-size: 200%;
+}
+
 .marketing2 {
 	margin: 75px 25px 0px 25px;
+}
+
+.featurette-divider {
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
