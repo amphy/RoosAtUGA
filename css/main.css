@@ -38,3 +38,16 @@ h4 {
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
+
+#portrait {
+	margin-top: 5px;
+	margin-bottom:20px;
+}
+
+footer {
+	margin-top:10px;
+}
+
+#intro, #bio {
+	margin-bottom:20px;
+}
